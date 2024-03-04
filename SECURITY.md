@@ -2,14 +2,14 @@
 
 ## Supported Versions
 
-All
-
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | :white_check_mark: |
+| ALPHA   | :x: |
+
+The project do not have securit for noww!
 
 ## Reporting a Vulnerability
 
 Comment all vunerabilities that you find please!
  
-:x:
+✅
